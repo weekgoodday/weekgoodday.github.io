@@ -7,33 +7,26 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a first-year PhD student at the [School of Intelligence Science and Technology](https://sai.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), supervised by [Prof. Huijing Zhao](http://www.poss.pku.edu.cn/). My research interests now include OOD Detection & Generalization, Environmental Understanding for Robotics & Autonomous Driving. 
+I am currently a first-year PhD student at the [School of Intelligence Science and Technology](https://sai.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), supervised by [Prof. Huijing Zhao](http://www.poss.pku.edu.cn/). My research interests now include OOD Detection & Generalization, Environmental Understanding for Mobile Robots & Autonomous Driving. 
 
 Education Experience
 ======
 
-2023.9-now PhD student, School of Intelligence Science and Technology, Peking University.
-
-2019.9-2023.6 Bachelor, College of Engineering, Peking University.
-
+2023.9-now PhD student, School of Intelligence Science and Technology, Peking University.  
+2019.9-2023.6 Bachelor, College of Engineering, Peking University.  
 2016.9-2019.9 Hangzhou Xuejun High School.
 
 News
 ======
-2024.03: our work about [OOD Challenges in Terrain Classification](https://github.com/weekgoodday/TCPOSS) is under review of IROS 2024.
-
-2023.09-2024.01: Assistant teacher of undergraduate course Introduction to Intelligent Robots.
-
-2023.06: Get Bachelor degree! Undergraduate thesis (in Chinese): [The Uncertainty Experimental Analysis in 3D Semantic Segmentation](../files/UndergraduateThesis.pdf).
-
-2022.09-2023.01: Assistant teacher of undergraduate course Introduction to Intelligent Robots.
-
-2022.07: Outstanding campers of the 2022 Peking University School of Artificial Intelligence Summer Camp. [Personal statement (in Chinese)](../files/PersonalStatement.pdf).
+**2024.03**: our work about [OOD Challenges in Terrain Classification](https://github.com/weekgoodday/TCPOSS) is under review of IROS 2024.  
+2023.09-2024.01: Assistant teacher of undergraduate course Introduction to Intelligent Robots.  
+**2023.06**: Get Bachelor degree! Undergraduate thesis (in Chinese): [The Uncertainty Experimental Analysis in 3D Semantic Segmentation](../files/UndergraduateThesis.pdf).  
+**2022.09-2023.01**: Assistant teacher of undergraduate course Introduction to Intelligent Robots.  
+**2022.07**: Outstanding campers of the 2022 Peking University School of Artificial Intelligence Summer Camp. [Personal statement (in Chinese)](../files/PersonalStatement.pdf).
 
 Contact Me
 ======
-School Email: zhouhaotian19@pku.edu.cn (check everyday)
-
+School Email: zhouhaotian19@pku.edu.cn (check everyday)  
 Personal Email: 1191745654@qq.com
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
