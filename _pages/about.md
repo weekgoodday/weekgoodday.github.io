@@ -14,7 +14,7 @@ Education Experience
 
 2023.9-now PhD student, School of Intelligence Science and Technology, Peking University.  
 2019.9-2023.6 Bachelor, College of Engineering, Peking University.  
-2016.9-2019.9 Hangzhou Xuejun High School.
+2016.9-2019.6 Hangzhou Xuejun High School.
 
 News
 ======
@@ -27,7 +27,7 @@ News
 Hobbies
 ======
 Chess & card games: Mahjong(Sichuan, Hangzhou, Japanese), Chinese chess,  Cards...   
-Sports: Badminton, Fitness
+Sports: Badminton, Fitness...
 
 Contact Me
 ======
