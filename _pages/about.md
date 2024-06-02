@@ -24,6 +24,11 @@ News
 **2022.09-2023.01**: Assistant teacher of undergraduate course Introduction to Intelligent Robots.  
 **2022.07**: Outstanding campers of the 2022 Peking University School of Artificial Intelligence Summer Camp. [Personal statement (in Chinese)](../files/PersonalStatement.pdf).
 
+Hobbies
+======
+Chess & card games: Mahjong(Sichuan, Hangzhou, Japanese), Chinese chess,  Cards...   
+Sports: Badminton, Fitness
+
 Contact Me
 ======
 School Email: zhouhaotian19@pku.edu.cn (check everyday)  
