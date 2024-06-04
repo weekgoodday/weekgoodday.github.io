@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a first-year PhD student at the [School of Intelligence Science and Technology](https://sai.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), supervised by [Prof. Huijing Zhao](http://www.poss.pku.edu.cn/). My research interests now include OOD Detection & Generalization, Environmental Understanding for Mobile Robots & Autonomous Driving, Embodied Multi-modal Learning, and so on. 
+I am currently a first-year PhD student at the [School of Intelligence Science and Technology](https://sai.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), supervised by [Prof. Huijing Zhao](http://www.poss.pku.edu.cn/). My research interests now include OOD Detection & Generalization, Environmental Understanding for Mobile Robots & Autonomous Driving, Embodied AI, Multi-modal Learning, and so on. 
 
 Education Experience
 ======
