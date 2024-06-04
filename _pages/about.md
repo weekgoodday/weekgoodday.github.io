@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a first-year PhD student at the [School of Intelligence Science and Technology](https://sai.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), supervised by [Prof. Huijing Zhao](http://www.poss.pku.edu.cn/). My research interests now include OOD Detection & Generalization, Environmental Understanding for Mobile Robots & Autonomous Driving, Multi-modal Learning, and so on. 
+I am currently a first-year PhD student at the [School of Intelligence Science and Technology](https://sai.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), supervised by [Prof. Huijing Zhao](http://www.poss.pku.edu.cn/). My research interests now include OOD Detection & Generalization, Environmental Understanding for Mobile Robots & Autonomous Driving, Embodied Multi-modal Learning, and so on. 
 
 Education Experience
 ======
@@ -18,7 +18,7 @@ Education Experience
 
 News
 ======
-**2024.03**: our work about [OOD Challenges in Terrain Classification](https://github.com/weekgoodday/TCPOSS) is under review of IROS 2024.  
+**2024.03**: Our work about [OOD Challenges in Terrain Classification](https://github.com/weekgoodday/TCPOSS) is under review of IROS 2024.  
 **2023.09-2024.01**: Teaching assistant of undergraduate course Introduction to Intelligent Robots.  
 **2023.06**: Get Bachelor degree! Undergraduate thesis (in Chinese): [The Uncertainty Experimental Analysis in 3D Semantic Segmentation](../files/UndergraduateThesis.pdf).  
 **2022.09-2023.01**: Teaching assistant of undergraduate course Introduction to Intelligent Robots.  
