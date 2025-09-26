@@ -18,7 +18,8 @@ Education Experience
 
 News
 ======
-**2025.09**: Our paper LagMemo: Language 3D Gaussian Splatting Memory for Multi-modal Open-vocabulary Multi-goal Visual Navigation is under review of ICRA 2026.  
+**2025.09**: Our paper LagMemo: Language 3D Gaussian Splatting Memory for Multi-modal Open-vocabulary Multi-goal Visual Navigation is under review of ICRA 2026.
+**2025.09**: Our paper TerraFusion: Semi-Supervised Vision-Proprioception Fusion for Robust Terrain Classification has been accepted by RAL.    
 **2024.09-2025.01**: Chief Teaching assistant of undergraduate course Introduction to Intelligent Robots.  
 **2024.03**: Our work about [OOD Challenges in Terrain Classification](https://github.com/weekgoodday/TCPOSS) is under review of IROS 2024. paper [Can Confidence Quantification Methods Work When Facing Real-world OOD Data in Terrain Classification?](../files/IROS2024_Terrain_Classification.pdf).  
 **2023.09-2024.01**: Teaching assistant of undergraduate course Introduction to Intelligent Robots.  
