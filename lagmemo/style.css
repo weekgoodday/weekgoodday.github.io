@@ -1,10 +1,17 @@
-body {
-    font-family: Arial, sans-serif;
+/* Reset some default styles */
+* {
     margin: 0;
     padding: 0;
-    background-color: #f5f5f5;
+    box-sizing: border-box;
 }
 
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+}
+
+/* Header */
 header {
     background-color: #333;
     color: white;
@@ -13,47 +20,100 @@ header {
 
 header nav ul {
     list-style: none;
-    padding: 0;
-    text-align: center;
+    display: flex;
+    justify-content: center;
 }
 
 header nav ul li {
-    display: inline;
     margin: 0 15px;
 }
 
 header nav ul li a {
     color: white;
     text-decoration: none;
+    font-size: 18px;
 }
 
+header nav ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Hero Section */
 .hero {
-    text-align: center;
-    padding: 50px 20px;
     background-color: #3498db;
     color: white;
+    text-align: center;
+    padding: 100px 20px;
 }
 
-button, .button {
+.hero h1 {
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    font-size: 1.2em;
+    margin-bottom: 30px;
+}
+
+.hero .button {
     background-color: #2ecc71;
     color: white;
-    padding: 10px 20px;
+    padding: 15px 30px;
     border: none;
-    text-decoration: none;
     font-size: 16px;
     cursor: pointer;
-    margin-top: 20px;
+    margin: 5px;
+    text-decoration: none;
 }
 
-button:hover, .button:hover {
+.hero .button:hover {
     background-color: #27ae60;
 }
 
-section {
-    padding: 40px;
+/* About Section */
+#about {
+    background-color: #fff;
+    padding: 50px 20px;
     text-align: center;
 }
 
+/* Method Section */
+#method {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 20px;
+    background-color: #f0f0f0;
+}
+
+.card {
+    background-color: white;
+    padding: 20px;
+    margin: 10px;
+    width: 30%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.card h3 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+/* Results Section */
+#results {
+    padding: 50px 20px;
+    text-align: center;
+}
+
+/* BibTeX Section */
+#bibtex {
+    padding: 50px 20px;
+    background-color: #fff;
+    text-align: center;
+}
+
+/* Footer */
 footer {
     background-color: #333;
     color: white;

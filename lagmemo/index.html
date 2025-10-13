@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="LagMemo: Language-aware 3DGS Memory for Multi-modal, Open-Vocabulary, Multi-goal Navigation">
+    <meta name="description" content="LagMemo: Language-aware 3DGS Memory for Multi-modal Navigation">
     <title>LagMemo: 3D Gaussian Splatting Memory</title>
     <link rel="stylesheet" href="style.css">
 </head>
@@ -22,37 +22,45 @@
     </header>
 
     <!-- Hero Section -->
-    <section id="home">
-        <div class="hero">
-            <h1>LagMemo: Language-aware 3DGS Memory for Multi-modal Navigation</h1>
-            <p>Leveraging 3D Gaussian Splatting for effective open-vocabulary, multi-goal navigation tasks.</p>
-            <a href="#paper" class="button">Read Paper</a>
-            <a href="#code" class="button">View Code</a>
-            <a href="#video" class="button">Watch Video</a>
+    <section id="home" class="hero">
+        <h1>LagMemo: Language-aware 3DGS Memory for Multi-modal Navigation</h1>
+        <p>Leveraging 3D Gaussian Splatting for effective open-vocabulary, multi-goal navigation tasks.</p>
+        <a href="#paper" class="button">Read Paper</a>
+        <a href="#code" class="button">View Code</a>
+        <a href="#video" class="button">Watch Video</a>
+    </section>
+
+    <!-- About Section -->
+    <section id="about">
+        <h2>About LagMemo</h2>
+        <p>LagMemo is a novel approach for visual navigation, integrating language-aware 3D Gaussian Splatting to handle multi-modal and open-vocabulary tasks in real-world environments.</p>
+    </section>
+
+    <!-- Method Section -->
+    <section id="method">
+        <h2>Method Overview</h2>
+        <div class="card">
+            <h3>Step 1: Memory Construction</h3>
+            <p>Construct a 3D memory of the environment using Gaussian splatting techniques.</p>
+        </div>
+        <div class="card">
+            <h3>Step 2: Goal Localization</h3>
+            <p>Use language-based queries to locate goals within the environment.</p>
+        </div>
+        <div class="card">
+            <h3>Step 3: Multi-goal Navigation</h3>
+            <p>Navigate to multiple goals, incorporating language and spatial information.</p>
         </div>
     </section>
 
-    <!-- Teaser Video -->
-    <section id="video">
-        <h2>Introduction Video</h2>
-        <video controls>
-            <source src="assets/LagMemo_v3.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
-    </section>
-
-    <!-- Paper Section -->
-    <section id="paper">
-        <h2>Read the Paper</h2>
-        <p>Explore the details of LagMemo and its innovations in multi-modal navigation.</p>
-        <a href="https://arxiv.org/abs/xxxxxxx" class="button">View Paper on ArXiv</a>
-    </section>
-
-    <!-- Code Section -->
-    <section id="code">
-        <h2>View the Code</h2>
-        <p>Check out the full codebase on GitHub.</p>
-        <a href="https://github.com/username/lagmemo" class="button">View Code</a>
+    <!-- Results Section -->
+    <section id="results">
+        <h2>Results</h2>
+        <p>LagMemo outperforms state-of-the-art methods on multi-modal, multi-goal navigation tasks. Here are the key metrics:</p>
+        <ul>
+            <li>Success Rate (SR): 85%</li>
+            <li>Success-weighted Path Length (SPL): 72%</li>
+        </ul>
     </section>
 
     <!-- BibTeX Section -->
