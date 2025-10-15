@@ -3,10 +3,10 @@
 <head>
   <meta charset="utf-8">
   <meta name="description"
-        content="Deformable Neural Radiance Fields creates free-viewpoint portraits (nerfies) from casually captured videos.">
-  <meta name="keywords" content="Nerfies, D-NeRF, NeRF">
+        content="LagMemo">
+  <meta name="keywords" content="LagMemo">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Nerfies: Deformable Neural Radiance Fields</title>
+  <title>LagMemo</title>
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-PYVRSFMDRL"></script>
@@ -349,7 +349,7 @@
     <h2 class="title is-3">Overview</h2>
     </div>
     <div class="content has-text-centered">
-      <embed src="http://weekgoodday.github.io/lagmemo/assets/fig2.png" width="100%" height="600px" />
+      <embed src="http://weekgoodday.github.io/lagmemo/assets/fig2.png" width="100%" height="auto" />
     </div>
   </div>
 </section>
@@ -360,13 +360,12 @@
     <div class="columns is-centered has-text-centered">
     <h2 class="title is-3">Framework</h2>
     </div>
-    <div class="columns is-centered has-text-centered">
-    <p class="subtitle">Language 3DGS Memory Reconstruction and Memory-Guided Visual Navigation Pipeline</p>
-    </div>
-    
-    <div class="content has-text-centered">
-      <embed src="http://weekgoodday.github.io/lagmemo/assets/fig3.png" width="100%" height="600px" />
-    </div>
+        <img src="http://weekgoodday.github.io/lagmemo/assets/fig3.png" width="100%" alt="Visual Navigation">
+        <div class="content has-text-centered">
+        <p style="font-size: 1.0em; color: #555;">
+          <strong>Language 3DGS Memory Reconstruction and Memory-Guided Visual Navigation Pipeline</strong>
+        </p>
+        </div>
   </div>
 </section>
 
@@ -378,9 +377,16 @@
     <!-- Goal Localization Subsection -->
     <div class="content has-text-justified">
       <h3 class="subtitle">Goal Localization</h3>
-      <div class="content has-text-centered">
-        <embed src="http://weekgoodday.github.io/lagmemo/assets/fig5_o.png" width="100%" height="600px" />
-      </div>
+      <img src="http://weekgoodday.github.io/lagmemo/assets/fig5_o.png" width="100%" alt="Goal Localization">
+      <p style="font-size: 1.0em; color: #555;">
+          <strong>Instance Query Illustration:</strong>
+           Different query texts are input, and corresponding responses are retrieved from the 3DGS. 
+          The rendered results from corresponding viewpoints show that the queries match the expected outcomes.
+
+        </p>
+      <!-- <div class="content has-text-centered">
+        <embed src="http://weekgoodday.github.io/lagmemo/assets/fig5_o.png" width="100%" height="auto" />
+      </div> -->
       
       <!-- <p><strong>Figure 2:</strong> [Add Description Here]</p>
       <div class="content has-text-centered">
@@ -396,9 +402,15 @@
     <!-- Visual Navigation Subsection -->
     <div class="content has-text-justified">
       <h3 class="subtitle">Visual Navigation</h3>
-      <div class="content has-text-centered">
-        <embed src="http://weekgoodday.github.io/lagmemo/assets/fig7.png" width="100%" height="600px" />
-      </div>
+      
+        <img src="http://weekgoodday.github.io/lagmemo/assets/fig7.png" width="100%" alt="Visual Navigation">
+        <p style="font-size: 1.0em; color: #555;">
+          <strong>Step-by-step Visualization of Memory-Guided Navigation to an Image Goal:</strong>
+          Columns show key steps (28, 67, 141, 165), rows show the front view, the top-down map, and the 3D localization results (red). In this case, 
+          the agent reaches waypoint-1/2/3 (yellow star; current waypoint in red). After checking the first two, it arrives at the third where the goal verification module identifies the goal. 
+          Then the agent proceeds to the final goal (green star) and the subtask successfully terminates at step 165.
+        </p>
+      
     </div>
   </div>
 </section>
