@@ -255,14 +255,14 @@
         <h2 class="title is-3">Abstract</h2>
         <div class="content has-text-justified">
           Navigating to a designated goal using visual information is a fundamental capability for intelligent robots. 
-          Most classical visual navigation methods are restricted to single-goal, single-modality, and closed set goal settings. 
           To address the practical demands of multi-modal, open-vocabulary goal queries and multi-goal visual navigation, 
           we propose LagMemo, a navigation system that leverages a language 3D Gaussian Splatting memory. 
-          During exploration, LagMemo constructs a unified 3D language memory. With incoming task goals, the system queries the memory, 
-          predicts candidate goal locations, and integrates a local perception-based verification mechanism to dynamically match and validate goals during navigation. 
-          For fair and rigorous evaluation, we curate GOAT-Core, a high-quality core split distilled from GOAT-Bench tailored to multi-modal open-vocabulary multi-goal visual navigation. 
-          Experimental results show that LagMemo’s memory module enables effective multi-modal open-vocabulary goal localization, 
-          and that LagMemo outperforms state-of-the-art methods in multi-goal visual navigation.
+          During a one-time exploration, LagMemo constructs a unified 3D language memory with robust spatial-semantic correlations. 
+          With incoming task goals, the system efficiently queries the memory, predicts candidate goal locations, 
+          and integrates a local perception-based verification mechanism to dynamically match and validate goals. 
+          For fair and rigorous evaluation, we curate GOAT-Core, a high-quality core split distilled from GOAT-Bench. 
+          Experimental results show that LagMemo's memory module enables effective multi-modal open-vocabulary localization, 
+          and significantly outperforms state-of-the-art methods in multi-goal visual navigation.
           <!-- <p>
             We present the first method capable of photorealistically reconstructing a non-rigidly
             deforming scene using photos/videos captured casually from mobile phones.
