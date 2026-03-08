@@ -18,6 +18,7 @@ Education Experience
 
 News
 ======
+**2026.03**: We revise our paper LagMemo: Language 3D Gaussian Splatting Memory for Multi-modal Open-vocabulary Multi-goal Visual Navigation, and submit it to IROS 2026.
 **2025.09**: Our paper LagMemo: Language 3D Gaussian Splatting Memory for Multi-modal Open-vocabulary Multi-goal Visual Navigation is under review of ICRA 2026. [Project Website](https://weekgoodday.github.io/lagmemo)  
 **2025.09**: Our paper TerraFusion: Semi-Supervised Vision-Proprioception Fusion for Robust Terrain Classification has been accepted by RAL.    
 **2024.09-2025.01**: Chief Teaching assistant of undergraduate course Introduction to Intelligent Robots.  
